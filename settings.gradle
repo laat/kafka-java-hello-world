@@ -1,0 +1,4 @@
+rootProject.name = 'kafka-java-hello-world'
+include 'Shared'
+include 'Producer'
+include 'Consumer'

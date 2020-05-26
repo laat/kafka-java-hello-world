@@ -1,0 +1,12 @@
+
+allprojects {
+    repositories {
+        jcenter()
+        maven { url "https://packages.confluent.io/maven/" }
+    }
+}
+
+subprojects {
+    version = '1.0'
+}
+
